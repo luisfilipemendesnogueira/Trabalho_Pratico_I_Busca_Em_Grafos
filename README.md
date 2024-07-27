@@ -20,7 +20,7 @@ Esse labirinto pode ser resolvido ao encontrar qualquer caminho de S (nó (1,0))
 
 Nesse exemplo é fácil notar que o ́unico caminho de S a E é:
 (1 ,0) (1 ,1) (1 ,2) (1 ,3) (2 ,3) (3 ,3) (3 ,4) (3 ,5) (3 ,6) (3 ,7) (2 ,7) (1 ,7)(1 ,8)
-Foram gerados 5 labirintos de teste com auxílio do site Maze Generator1. Os arquivos também estão em anexo a esse enunciado.
+Foram gerados 5 labirintos de teste com auxílio do site Maze Generator1. Os arquivos também estão na pasta maze em anexo.
 O algoritmo deve aplicar a busca em largura e em profundidade.
 
 ## 3. Interação com o usuário:
