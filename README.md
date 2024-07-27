@@ -1,4 +1,7 @@
 # Trabalho Prático I
+
+Trabalho proposto da disciplina Algoritmos e Estrutura de Dados III em lingaugem python.
+
 ## 1. Objetivos.
 
 - Desenvolver a habilidade de programação de algoritmos em grafos.
@@ -23,8 +26,13 @@ O algoritmo deve aplicar a busca em largura e em profundidade.
 ## 3. Interação com o usuário:
 
 A interação com o usuário deve ocorrer na função main do seu programa. O mesmo deve solicitar ao usuário o arquivo de entrada e, após a execução, informar o caminho de S a E, bem como o tempo de execução. Caso o caractere 0 seja informado, o programa deve encerrar. Segue um exemplo de interação com o programa:
+
 Informe o arquivo (0 para sair ) : <maze/toy.txt>
+
 Processando ...
+
 Caminho : (1 ,0) (1 ,1) (1 ,2) (1 ,3) (2 ,3) (3 ,3) (3 ,4) (3 ,5) (3 ,6) (3 ,7) (2 ,7)(1 ,7) (1 ,8)
+
 Tempo : 0.005 s
+
 Informe o arquivo (0 para sair ) : <0>
