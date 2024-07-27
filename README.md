@@ -1,6 +1,6 @@
 # Trabalho Prático I
 
-Trabalho proposto da disciplina Algoritmos e Estrutura de Dados III em lingaugem python.
+Trabalho proposto da disciplina Algoritmos e Estrutura de Dados III em linguagem python.
 
 ## 1. Objetivos.
 
