@@ -5,7 +5,7 @@ Trabalho proposto da disciplina Algoritmos e Estrutura de Dados III em linguagem
 ## 1. Objetivos.
 
 - Desenvolver a habilidade de programação de algoritmos em grafos.
-- Reforçar o aprendizado sobre os algoritmos de busca em grafos.
+- Reforçar o aprendizado sobre os algoritmos de busca em grafos.
 - Aplicar os conhecimentos em algoritmos para resolver problemas reais.
   
 ## 2. Descrição
